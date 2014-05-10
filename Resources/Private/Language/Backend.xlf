@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+    <file source-language="en" datatype="plaintext" original="messages" date="2014-04-10T23:11:39Z" product-name="basenetzmacher">
+        <header/>
+        <body>
+
+            <trans-unit id="theme_name">
+                <source>Base Netzmacher</source>
+            </trans-unit>
+
+            <trans-unit id="backend_layout.start">
+                <source>Die Netzmacher: Start</source>
+            </trans-unit>
+
+            <trans-unit id="backend_layout.column.footer1">
+                <source>Footer: Left</source>
+            </trans-unit>
+            <trans-unit id="backend_layout.column.footer2">
+                <source>Footer: Center</source>
+            </trans-unit>
+            <trans-unit id="backend_layout.column.footer3">
+                <source>Footer: Right</source>
+            </trans-unit>
+
+        </body>
+    </file>
+</xliff>

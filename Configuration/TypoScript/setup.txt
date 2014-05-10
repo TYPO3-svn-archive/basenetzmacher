@@ -1,0 +1,17 @@
+
+
+##############
+#### PAGE ####
+##############
+page {
+    shortcutIcon = {$page.includePath.icons}favicon.ico
+
+    10 = FLUIDTEMPLATE
+    10 {
+        file.stdWrap.cObject {
+            basenetzmacher__special_start = TEXT
+            basenetzmacher__special_start.value = {$page.fluidtemplate.templateRootPath}Start.html
+            basenetzmacher__special_start.insertData = 1
+        }
+    }
+}

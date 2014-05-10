@@ -1,0 +1,23 @@
+############
+### PAGE ###
+############
+page {
+    logo {
+        file    = EXT:bootstrap_package/Resources/Public/Images/BootstrapPackage.png
+        height  = 60
+        width   = 210
+    }
+    fluidtemplate {
+        templateRootPath  = EXT:basenetzmacher/Resources/Private/Templates/Page/
+    }
+}
+
+
+##############
+### CONFIG ###
+##############
+config {
+    headerComment (
+  Die Netzmacher - TYPO3-Agentur für TYPO3-Integration und TYPO3-Entwicklung
+)
+}
